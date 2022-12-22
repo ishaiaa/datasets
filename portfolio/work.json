@@ -17,7 +17,7 @@
     ],
     "projects": [
         {
-            "image": "url",
+            "image": "https://i.imgur.com/QL2k5sm.png",
             "title": "Gate-Way",
             "description": "Gate-Way is a puzzle game, created by two passionate developers. Nominated to the final of GEEK 2022 contest.",
             "technologies": ["unity", "csharp", "design"],
@@ -25,7 +25,7 @@
             "isGit": false
         },
         {
-            "image": "url",
+            "image": "https://i.imgur.com/2vHz4Qd.png",
             "title": "My Portfolio",
             "description": "My personal website. You're currently on it.",
             "technologies": ["react", "html", "css", "javascript", "design"],
@@ -33,7 +33,7 @@
             "isGit": true
         },
         {
-            "image": "url",
+            "image": "https://i.imgur.com/x49CDsy.png",
             "title": "Jaskółka",
             "description": "Platform for conducting social polls, created during code week 2022 for HackHeroes competition.",
             "technologies": ["design", "react", "react-native", "nodejs", "javascript", "css"],
@@ -41,7 +41,7 @@
             "isGit": false
         },
         {
-            "image": "url",
+            "image": "https://i.imgur.com/ddEaOLO.jpg",
             "title": "Marvo SpookyEvent",
             "description": "Event organised by Marvo. I was one of two developers responsible for the project.",
             "technologies": ["design", "server", "javascript"],
@@ -49,7 +49,7 @@
             "isGit": false
         },
         {
-            "image": "url",
+            "image": "https://i.imgur.com/vvCSzWX.png",
             "title": "Marvo Bedwars",
             "description": "Event organised as part of Marvo Cup. I was one of two developers responsible for the project.",
             "technologies": ["design", "server", "javascript"],

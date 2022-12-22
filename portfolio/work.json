@@ -36,7 +36,7 @@
             "image": "https://i.imgur.com/x49CDsy.png",
             "title": "Jaskółka",
             "description": "Platform for conducting social polls, created during code week 2022 for HackHeroes competition.",
-            "technologies": ["design", "react", "react-native", "nodejs", "javascript", "css"],
+            "technologies": ["design", "react", "reactnative", "nodejs", "javascript", "css"],
             "link": "https://mariojey.github.io/Project-Zirael/",
             "isGit": false
         },

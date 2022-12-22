@@ -1,0 +1,40 @@
+{
+    "skill_cloud": [
+        "JavaScript", "CSS3", "HTML5", "ReactJS",
+        "SQL", "npm", "Git", "NodeJS", "ExpressJS",
+        "PHP", "MongoDB", "MySQL", "jQuery", "Bootstrap"
+    ],
+    
+    "skill_bars": [
+        {
+            "name": "HTML",
+            "level": 90,
+            "color": "#e67410"
+        },
+        {
+            "name": "CSS",
+            "level": 85,
+            "color": "#e6db10"
+        },
+        {
+            "name": "JavaScript",
+            "level": 65,
+            "color": "#10e646"
+        },
+        {
+            "name": "ReactJS",
+            "level": 40,
+            "color": "#1034e6"
+        },
+        {
+            "name": "ExpressJS",
+            "level": 35,
+            "color": "#6510e6"
+        },
+        {
+            "name": "NodeJS",
+            "level": 35,
+            "color": "#c71c71"
+        }
+    ]
+}

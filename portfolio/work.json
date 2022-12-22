@@ -1,0 +1,60 @@
+{
+    "workplaces": [
+        {
+            "icon": "url",
+            "company": "",
+            "title": "Freelancing",
+            "description": "I create responsive websites for desktop and mobile. I work with Frontend and Backend frameworks in order to deliver best quality products",
+            "timespan": "Now"
+        },
+        {
+            "icon": "url",
+            "company": "Polska Federacja Esportowa",
+            "title": "Technician and Backend developer",
+            "description": "PFE foundation specializes in esports. We carry out events / projects / orders for companies and more!",
+            "timespan": "May 2021 - October 2022"
+        }
+    ],
+    "projects": [
+        {
+            "image": "url",
+            "title": "Gate-Way",
+            "description": "Gate-Way is a puzzle game, created by two passionate developers. Nominated to the final of GEEK 2022 contest.",
+            "technologies": ["unity", "csharp", "design"],
+            "link": "https://zongi.dev/gateway-build",
+            "isGit": false
+        },
+        {
+            "image": "url",
+            "title": "My Portfolio",
+            "description": "My personal website. You're currently on it.",
+            "technologies": ["react", "html", "css", "javascript", "design"],
+            "link": "https://github.com/zongii/react-portfolio",
+            "isGit": true
+        },
+        {
+            "image": "url",
+            "title": "Jaskółka",
+            "description": "Platform for conducting social polls, created during code week 2022 for HackHeroes competition.",
+            "technologies": ["design", "react", "react-native", "nodejs", "javascript", "css"],
+            "link": "https://mariojey.github.io/Project-Zirael/",
+            "isGit": false
+        },
+        {
+            "image": "url",
+            "title": "Marvo SpookyEvent",
+            "description": "Event organised by Marvo. I was one of two developers responsible for the project.",
+            "technologies": ["design", "server", "javascript"],
+            "link": "https://www.facebook.com/MARVOpl/photos/pb.100063669276250.-2207520000../603278537686813/?type=3",
+            "isGit": false
+        },
+        {
+            "image": "url",
+            "title": "Marvo Bedwars",
+            "description": "Event organised as part of Marvo Cup. I was one of two developers responsible for the project.",
+            "technologies": ["design", "server", "javascript"],
+            "link": "https://www.facebook.com/photo.php?fbid=444235064375466&set=pb.100063669276250.-2207520000..&type=3",
+            "isGit": false
+        }
+    ]
+}
